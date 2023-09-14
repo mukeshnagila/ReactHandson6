@@ -1,0 +1,11 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  /* background-color: aquamarine; */
+  background-image: linear-gradient( rgb(0, 123, 255), rgb(249, 193, 26), rgb(0, 217, 255));
+  min-height: 708px;
+}
